@@ -1,0 +1,8 @@
+{
+  "version": "0.20.0",
+  "downloadUrl": "https://s-pner.github.io/pner-launcher-web/downloads/PnerLauncher_Setup.exe",
+  "required": false,
+  "title": "피너런처 업데이트",
+  "message": "현재 사용 중인 버전이 최신입니다. 테스트용 update.json입니다.",
+  "patchNote": "v20: 런처 자체 업데이트 확인 기능 추가"
+}
