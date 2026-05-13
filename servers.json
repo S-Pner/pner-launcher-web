@@ -4,14 +4,14 @@
   "servers": [
     {
       "id": "pner_test_12110",
-      "name": "피너런처 테스트 서버",
-      "description": "피너런처 접속 테스트용 서버입니다.",
+      "name": "유키의 뚱국지서버",
+      "description": "유키, 호미밍, 니니밍의 3파대전이 시작된다.",
       "minecraftVersion": "1.21.10",
       "loader": "fabric",
       "fabricLoaderVersion": "0.17.2",
       "connectHost": "product-operates.gl.joinmc.link",
       "connectPort": 25565,
-      "displayAddress": "피너런처 테스트 서버",
+      "displayAddress": "유키의 뚱국지서버",
       "showAddress": false,
       "status": "active",
       "enabled": true,
