@@ -1,6 +1,6 @@
 {
   "serverId": "pner_test_12110",
-  "version": "2026-05-13-003",
+  "version": "2026-05-13-004",
   "files": [
     {
       "path": "mods/fabric-api.jar",
@@ -13,6 +13,18 @@
       "url": "files/mods/sodium.jar",
       "required": true,
       "displayName": "Sodium 최적화 모드"
+    },
+    {
+      "path": "mods/journeymap.jar",
+      "url": "files/mods/journeymap.jar",
+      "required": true,
+      "displayName": "JourneyMap 미니맵"
+    },
+    {
+      "path": "resourcepacks/pner-pack.zip",
+      "url": "files/resourcepacks/pner-pack.zip",
+      "required": true,
+      "displayName": "피너런처 리소스팩"
     }
   ]
 }
