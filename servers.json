@@ -1,0 +1,35 @@
+{
+  "version": "2026-05-13-001",
+  "servers": [
+    {
+      "id": "pner_test_12110",
+      "name": "피너런처 테스트 서버",
+      "description": "피너런처 접속 테스트용 서버입니다.",
+      "minecraftVersion": "1.21.10",
+      "loader": "vanilla",
+      "serverIp": "222.232.100.83",
+      "serverPort": 25565,
+      "status": "active",
+      "enabled": true,
+      "sortOrder": 1,
+      "icon": "assets/icons/pner_test.png",
+      "background": "assets/backgrounds/home_bg.png",
+      "disabledReason": ""
+    },
+    {
+      "id": "archive_sample",
+      "name": "종료된 서버 예시",
+      "description": "종료된 서버는 목록에는 보이지만 플레이할 수 없습니다.",
+      "minecraftVersion": "1.21.10",
+      "loader": "vanilla",
+      "serverIp": "127.0.0.1",
+      "serverPort": 25565,
+      "status": "ended",
+      "enabled": false,
+      "sortOrder": 99,
+      "icon": "assets/icons/archive.png",
+      "background": "assets/backgrounds/archive_bg.png",
+      "disabledReason": "종료된 서버입니다."
+    }
+  ]
+}
