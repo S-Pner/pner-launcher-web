@@ -6,7 +6,7 @@
       "id": "pner_test_12110",
       "name": "유키의 뚱국지서버",
       "description": "유키, 호미밍, 니니밍의 3파대전이 시작된다.",
-      "minecraftVersion": "1.21.10",
+      "minecraftVersion": "1.21.4",
       "loader": "fabric",
       "fabricLoaderVersion": "0.17.2",
       "connectHost": "product-operates.gl.joinmc.link",
