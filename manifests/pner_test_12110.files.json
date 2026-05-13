@@ -1,0 +1,13 @@
+{
+  "serverId": "pner_test_12110",
+  "version": "2026-05-13-001",
+  "files": [
+    {
+      "path": "pnerlauncher/v14-test.txt",
+      "url": "files/test/v14-test.txt",
+      "sha256": "e76e2ec922919032f3b0c4c81389c435b546a9c45a81272dd8613fd0cd365c40",
+      "required": true,
+      "displayName": "v14 원격 파일 설치 테스트"
+    }
+  ]
+}
