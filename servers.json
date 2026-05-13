@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-13-005",
+  "version": "2026-05-13-008",
   "homeBackground": "assets/backgrounds/pner-home.png",
   "servers": [
     {
@@ -16,8 +16,8 @@
       "status": "active",
       "enabled": true,
       "sortOrder": 1,
-      "icon": "assets/icons/pner_test.png",
-      "background": "assets/backgrounds/yuki-test.png",
+      "icon": "assets/backgrounds/yuki_test.png",
+      "background": "assets/backgrounds/yuki_test.png",
       "manifest": "manifests/pner_test_12110.files.json",
       "disabledReason": ""
     },
@@ -34,8 +34,8 @@
       "status": "ended",
       "enabled": false,
       "sortOrder": 99,
-      "icon": "assets/icons/archive.png",
-      "background": "assets/backgrounds/archive_bg.png",
+      "icon": "assets/backgrounds/yuki_test.png",
+      "background": "assets/backgrounds/yuki_test.png",
       "disabledReason": "종료된 서버입니다."
     }
   ]
