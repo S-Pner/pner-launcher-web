@@ -3,19 +3,20 @@
   "servers": [
     {
       "id": "pner_test_12110",
-      "name": "피너런처 테스트 서버",
-      "description": "피너런처 접속 테스트용 서버입니다.",
-      "minecraftVersion": "1.21.10",
-      "loader": "vanilla",
-      "serverIp": "222.232.100.83",
-      "serverPort": 25565,
-      "status": "active",
-      "enabled": true,
-      "sortOrder": 1,
-      "icon": "assets/icons/pner_test.png",
-      "background": "assets/backgrounds/home_bg.png",
-      "manifest": "manifests/pner_test_12110.files.json",
-      "disabledReason": ""
+  "name": "피너런처 테스트 서버",
+  "description": "피너런처 접속 테스트용 서버입니다.",
+  "minecraftVersion": "1.21.10",
+  "loader": "fabric",
+  "fabricLoaderVersion": "0.17.2",
+  "serverIp": "222.232.100.83",
+  "serverPort": 25565,
+  "status": "active",
+  "enabled": true,
+  "sortOrder": 1,
+  "icon": "assets/icons/pner_test.png",
+  "background": "assets/backgrounds/home_bg.png",
+  "manifest": "manifests/pner_test_12110.files.json",
+  "disabledReason": ""
     },
     {
       "id": "archive_sample",
