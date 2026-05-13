@@ -1,10 +1,6 @@
 {
   "version": "2026-05-13-005",
-  "launcherName": "피너런처",
-  "homeTitle": "피너런처",
-  "homeSubtitle": "",
   "homeBackground": "assets/backgrounds/pner-home.png",
-  "homeLogo": "assets/icons/pner_test.png",
   "servers": [
     {
       "id": "pner_test_12110",
@@ -31,7 +27,7 @@
       "description": "종료된 서버는 목록에는 보이지만 플레이할 수 없습니다.",
       "minecraftVersion": "1.21.10",
       "loader": "vanilla",
-      "connectHost": "pending.proxy.address",
+      "connectHost": "disabled.example",
       "connectPort": 25565,
       "displayAddress": "종료된 서버",
       "showAddress": false,
